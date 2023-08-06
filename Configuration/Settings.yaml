@@ -1,0 +1,8 @@
+SteinbauerIT:
+  Neos:
+    HeadlessChrome:
+      chromeExecutable: '/usr/bin/chromium-browser'
+      defaultAttributes:
+        - 'disable-gpu'
+        - 'no-margins'
+        - 'no-sandbox'
